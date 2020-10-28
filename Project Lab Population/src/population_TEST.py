@@ -56,6 +56,23 @@ def test_show_comparative_countries_year():
 ################################################################
 POPULATIONS = read_populations('../data/population.csv')
 
+res=list()
+for nombre,codigo,año,censo in populations
+if country
+
+res = set()
+for i in range(0, len(populations)-1):
+    if int(populations[i][3]>0:
+           res.add(populations[i][0])
+ countries_list= list(res)
+sreturn countries_list
+res.add(nombre)
+res_ñost= ñ
+
+list(res)
+list[(Spain,7828282), (Spain,8093030), (Spain,93094093),(Spain,100000000)]
+
+
 test_read_populations()
 #test_calculate_countries()
 #test_filter_by_country()
